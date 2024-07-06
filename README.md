@@ -51,19 +51,19 @@ Tenho sólida experiência com 5 anos de atuação no mercado desenvolvendo sist
 
 <!-- English Section -->
 ## Education 📚
-- Bachelor's in Software Engineering - UNIASSELVI *in progress*
+- Bachelor's in Software Engineering - UNIASSELVI *(in progress)*
 <!-- End of Language Sections -->
 
 <!-- Portuguese Section -->
 ## Educação 📚
-- Bacharel em Engenharia de Software - UNIASSELVI *cursando*.
+- Bacharel em Engenharia de Software - UNIASSELVI *(cursando)*.
 <!-- End of Language Sections -->
 
 <!-- English Section -->
 ## Main Projects 🌟
 ### Cifra-Pro
 - An app focused on creating set-list repertoire. Completely ad-free, with a minimalist, simple, and user-friendly layout.
-- [Project link on GitHub](https://github.com/VndrGrhrd/Cifra-Pro)
+- [Project link on GitHub](https://github.com/VndrGrhrd/Cifra-Pro) (private project)
 
 ### Basic Wordpress Blog
 - Basic structure of a Wordpress website, using TailwindCSS and SASS.
@@ -72,7 +72,7 @@ Tenho sólida experiência com 5 anos de atuação no mercado desenvolvendo sist
 ### CMS basic Admin
 - Basic CMS system to manage the backend of a PHP website, utilizing composer.
 The project incorporates essentials to implement an admin panel for a PHP website including *User authentication User creation User editing User permissions*.
-- [Project link on GitHub](https://github.com/VndrGrhrd/cms-basic-admin)
+- [Project link on GitHub](https://github.com/VndrGrhrd/cms-basic-admin) 
 
 ### Web scraping Template
 - Web scraping template for Chrome and Firefox automation using [webdriver.io](https://webdriver.io) V8.
@@ -83,7 +83,7 @@ The project incorporates essentials to implement an admin panel for a PHP websit
 ## Projetos Principais 🌟
 ### Cifra-Pro
 - Aplicativo voltado para montar repertório set-list. Completamente sem anúncios, tem um layout minimalista, simples e fácil de ser utilizado.
-- [link do projeto no GitHub](https://github.com/VndrGrhrd/Cifra-Pro)
+- [link do projeto no GitHub](https://github.com/VndrGrhrd/Cifra-Pro) (projeto privado)
 
 ### Basic Wordpress Blog
 - Estrutura básica de um site em Wordpress, Utilizando TaiwindCSS, SASS.
