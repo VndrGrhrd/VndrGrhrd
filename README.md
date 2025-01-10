@@ -15,7 +15,7 @@ Tenho sólida experiência com 5 anos de atuação no mercado desenvolvendo sist
 - LinkedIn: **[Seu perfil LinkedIn](https://br.linkedin.com/in/vandoir-gerhard)**
 
 ## Habilidades Técnicas 💻
-- Linguagens: **JavaScript, Node.js, Python, HTML/CSS, PHP.**
+- Linguagens: **JavaScript, TypeScript, Node.js, Python, HTML/CSS, PHP.**
 - Frameworks: **React, Wordpress, Django.**
 - Ferramentas: **Git, Docker, Linux.**
 
@@ -23,9 +23,9 @@ Tenho sólida experiência com 5 anos de atuação no mercado desenvolvendo sist
 - Bacharel em Engenharia de Software - UNIASSELVI *(cursando)*.
 
 ## Projetos Principais 🌟
-### Cifra-Pro
+<!-- ### Cifra-Pro
 - Aplicativo voltado para montar repertório set-list. Completamente sem anúncios, tem um layout minimalista, simples e fácil de ser utilizado.
-- [link do projeto no GitHub](https://github.com/VndrGrhrd/Cifra-Pro) (projeto privado)
+- [link do projeto no GitHub](https://github.com/VndrGrhrd/Cifra-Pro) (projeto privado) -->
 
 ### Basic Wordpress Blog
 - Estrutura básica de um site em Wordpress, Utilizando TaiwindCSS, SASS.
